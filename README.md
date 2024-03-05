@@ -1,12 +1,11 @@
 \documentclass{article}
 \usepackage{amsmath}
 
+\begin{document}
+
 \title{Flower Classification Notebook}
 \author{Mejri Omar}
 \date{}
-
-\begin{document}
-
 \maketitle
 
 This project contains a Jupyter notebook for flower classification using machine learning techniques. It is built with the dataset available at the following link: \textit{Link to Dataset}. 
